@@ -5,7 +5,9 @@ K-means algorithm
 RFM metric was used to segment customers into category based on their purchasing performace.
 
 R - recency, when last did a customer purchase a product.
+
 F - frequency, how often did they purchase the company's product.
+
 M - monetary value, how much have they spent in purchasing goods in the company.
 
-This help the business to understand it customers performance and how to improve their performance by increasing their purchasing power and frequent interaction of purchase through different marketing strategy
+This help the business to understand it customers performance and how to improve their performance by increasing their purchasing power and frequent interaction of purchase through different marketing strategy.

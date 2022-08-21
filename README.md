@@ -15,3 +15,6 @@ K-Means clustering is an unsupervised machine learning model that clusters custo
 * F - frequency, how often did they purchase the company's product.
 
 * M - monetary value, how much have they spent in purchasing goods in the company.
+
+## Conclusion
+In this project I used unsupervised machine learning model. I performed dimensionality reduction to eliminate redundant features along with agglomerative clustering that cluster customers into 5 different segment based on their similarities. This analysis can be further implemented with the help of the marketing team to send meaasages and other marketing strategies to the targeted audience.

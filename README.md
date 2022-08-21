@@ -1,3 +1,4 @@
+* To view the notebook along side its plotly visualisation check here: https://nbviewer.org/github/toludoyin/customer_segmentation/blob/main/kmeans_clustering.ipynb
 # Customer Segmentation Analysis
 Customer Segmentation Analysis is mostly use in marketing to target different customer segment with right messaging and for other business purposes. It is a detailed analysis of the company's ideal customers.
 

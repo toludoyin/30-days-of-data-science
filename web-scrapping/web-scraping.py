@@ -9,4 +9,3 @@ for job in jobs:
     job_type = job.find('h3', class_ = 'jobhead').text[2:].strip()
     # avg_amount = job.find('strong')
     print(jobs)
-    

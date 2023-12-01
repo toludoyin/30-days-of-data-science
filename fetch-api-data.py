@@ -2,7 +2,7 @@
 
 import requests
 import pandas as pd
-import datetime
+import datetime as dt
 import psycopg2
 from sqlalchemy import create_engine
 
